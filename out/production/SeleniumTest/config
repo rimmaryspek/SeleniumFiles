@@ -1,0 +1,3 @@
+String URL = "http://hrm.syntaxtechs.net/humanresources/symfony/web/index.php/auth/login"
+String userName=Admin
+String password=Hum@nhrm123
